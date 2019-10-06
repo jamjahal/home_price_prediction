@@ -58,6 +58,9 @@ def plot_vars(model,X, y, ncols=2):
     plt.xlabel("Predicted Values: $\hat{y}$", fontsize = 20)
     plt.ylabel("Actual Values: $y$", fontsize = 20)
     plt.title('Predicted Values vs. Actual Values', fontsize = 24);
+
+
+    
     
 # Test your Model
 
